@@ -1,5 +1,7 @@
 # Neural Network 3D Training Visualization
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Interactive Streamlit dashboard for visualizing YOLO model training with 3D feature space, Grad-CAM comparisons, and real-time metrics.
 
 ## Features
@@ -53,7 +55,7 @@ streamlit run viz_tool/app.py
 ## Project Structure
 
 ```
-viz_tool/
+neural-network-3d-viz/
 ├── __init__.py
 ├── app.py                    # Main Streamlit dashboard
 ├── model_loader.py           # Load YOLO .pt files
@@ -83,3 +85,6 @@ python -m pytest viz_tool/tests/ -v
 
 ## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+**Copyright (c) 2026 Paulrydrick Puri**
