@@ -83,4 +83,3 @@ python -m pytest viz_tool/tests/ -v
 
 ## License
 
-Part of ITMAX project.
