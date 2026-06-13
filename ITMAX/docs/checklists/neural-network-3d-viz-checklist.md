@@ -3,7 +3,7 @@
 **Plan:** `docs/plans/neural-network-3d-viz.md`  
 **Branch:** `feat/neural-network-3d-viz`  
 **Status:** 🟢 Done  
-**PR:** #1
+**Repository:** https://github.com/PaulrydrickPuri/neural-network-3d-viz
 
 ---
 
